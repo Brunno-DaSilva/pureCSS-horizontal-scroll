@@ -1,1 +1,4 @@
-# pureCSS-horizontal-scroll
+# Pure CSS Horizontal Scroll
+
+
+#### Demo: 
